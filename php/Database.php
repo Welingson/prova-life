@@ -17,7 +17,7 @@ class Database
     {
         $this->ip = 'localhost';
         $this->user = 'root';
-        $this->password = 'weds36741298';
+        $this->password = '';
         $this->database = 'db_prova';
     }
 
